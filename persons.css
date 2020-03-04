@@ -1,0 +1,11 @@
+div.main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.main .person {
+  padding:10px;
+  margim: 10px;
+  background-color: #EAEAEA;
+  box-shadow: 10px 10px 5px lightgray
+}
